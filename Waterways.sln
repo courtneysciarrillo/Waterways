@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterways", "Waterways\Waterways.csproj", "{33264D4F-2EFF-4ADB-B4E0-6B7F0E247A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33264D4F-2EFF-4ADB-B4E0-6B7F0E247A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33264D4F-2EFF-4ADB-B4E0-6B7F0E247A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33264D4F-2EFF-4ADB-B4E0-6B7F0E247A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33264D4F-2EFF-4ADB-B4E0-6B7F0E247A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1FDA70F-F287-4D3E-B143-FB4ED5F2AE74}
+	EndGlobalSection
+EndGlobal
